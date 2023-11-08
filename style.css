@@ -4,7 +4,7 @@ th {
   color: white;
   background: orange;
 }
-td {
+th,td {
   border: 1px solid black;
 }
 table{border-collapse: collapse;}
