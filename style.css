@@ -2,9 +2,9 @@ em { color: green; }
 
 th {
   color: white;
-  background: orenge;
+  background: orange;
 }
-tb {
-  border: 1px sorid black;
+td {
+  border: 1px solid black;
 }
 table{border-collapse: collapse;}
